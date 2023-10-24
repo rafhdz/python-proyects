@@ -1,0 +1,30 @@
+Algoritmo 
+Receta
+Comandos
+Input
+Def
+Print 
+Return
+Input
+Print
+For
+While
+If
+While
+Def
+Input
+Numero
+Float
+Integer
+Suma
+Multiplicación
+Paréntisis 
+Base de datos
+Listas
+Condición
+División en subproblemas
+No documentar
+Hacer problemas a la vez
+Input
+Def
+Print

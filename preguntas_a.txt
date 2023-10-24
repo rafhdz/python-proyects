@@ -1,0 +1,11 @@
+¿Cuál se considera un conjunto de instrucciones para programar?
+Instrucción para desplegar algo en la pantalla:
+Instrucción para insertar algo como usuario dentro del programa:
+Instrucción para establecer una condición para algo:
+Una de las instrucciones en estructuras repetitivas:
+¿Cuál no es un tipo de dato en python?
+Operación con mayor prioridad en python:
+Recurso para almacenar datos en python:
+Estrategia importante para la resolución de problemas en python
+Instrucción para definir una función en python:
+
